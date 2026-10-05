@@ -1,4 +1,4 @@
-# TF2 Gameplay Enhancement Suite 2026 — HUD Manager, Config Editor & Log Exporter
+ # TF2 Gameplay Enhancement Suite 2026 — HUD Manager, Config Editor & Log Exporter
 
 [![Downloads](https://img.shields.io/badge/downloads-38k+-brightgreen)](https://github.com/SubstanceAnemoneAxe/tf2-gameplay-enhancement-suite/releases)
 [![Version](https://img.shields.io/badge/version-3.2.0-blue)](https://github.com/SubstanceAnemoneAxe/tf2-gameplay-enhancement-suite/releases)
